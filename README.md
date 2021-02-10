@@ -1,1 +1,1 @@
-Estrutura simples feita com Spring Boot, Rest e  Hibernate
+Simple structure made with Spring Boot, Rest and Hibernate
